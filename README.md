@@ -8,4 +8,5 @@ In this repository, we show codes we used to control a Nikon Ti2 inverted micros
 
 Note that, the code is made for demonstration only, and is not optimized for computational efficiency.
 
-![image](https://github.com/wormneurolab/Target-Illumination-Microscopy/assets/73413475/1291bef6-fbca-454a-9637-7ddb3ffb4ddc)
+![image](https://github.com/wormneurolab/Targeted-Illumination-Microscopy/assets/73413475/db961494-074b-41ad-b8da-f6855a30163b)
+
