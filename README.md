@@ -1,4 +1,4 @@
-# Targetted-Illumination-Microscopy (TIM)
+# Targeted-Illumination-Microscopy (TIM)
 
 The paper is currently on bioRxiv: https://www.biorxiv.org/content/10.1101/2023.07.09.548132v1.full
 
