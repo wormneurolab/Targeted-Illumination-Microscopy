@@ -22,7 +22,7 @@ Note that the code is intended solely for demonstrating our TIM concept and is n
 
 ![image](https://github.com/wormneurolab/Targeted-Illumination-Microscopy/assets/73413475/db961494-074b-41ad-b8da-f6855a30163b)
 
-Contributors:
+Code contributors:
 1. Yao L. Wang, ywang07@rockefeller.edu
 2. Jia Fan, jia.fan2@case.edu
 3. Tina T.N. Hoang, nguyenhoang.t@northeastern.edu
