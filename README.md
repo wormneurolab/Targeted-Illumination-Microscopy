@@ -7,6 +7,8 @@ The TIM paper is currently on https://onlinelibrary.wiley.com/doi/10.1002/lpor.2
 <img width="1653" height="2173" alt="image" src="https://github.com/user-attachments/assets/dcab4997-eec4-4b42-9fd6-76fa9f2f9dba" />
 
 
+
+
 In widefield fluorescence imaging, out-of-focus and scattered light from the bright cell body often obscures nearby dim fibers and degrades their contrast. Scanning techniques can solve this problem, but are limited by reduced imaging speed and increased cost. We greatly reduce stray light in widefield imaging by modulating the illumination intensity to different structures. We identify fibers by real-time iterated image processing, and target illumination to fibers by a digital micromirror device add-on to a common widefield microscope. We illuminate bright cell bodies with minimal light intensity and in-focus fibers with high light intensity. This procedure minimizes the background and enhances the visibility of fibers while maintaining a fast-imaging speed and low cost. 
 
 In this repository, we show the codes we used to control a Nikon Ti2 inverted microscope, a Hamamatsu fusion BT sCMOS camera, and a DLi900 DMD (digital micromirror device, https://dlinnovations.com/products/dli9000-9-wqxga-development-kit/, and any other DMD including projector extracted DMD will also work) for performing TIM.
